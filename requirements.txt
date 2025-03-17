@@ -1,0 +1,4 @@
+sqlglot>=26.0.0
+networkx>=3.0
+matplotlib>=3.5.0
+pygraphviz>=1.10; platform_system != "Windows"
